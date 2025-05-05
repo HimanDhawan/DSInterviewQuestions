@@ -1,5 +1,4 @@
 # DSInterviewQuestions
-The questions were asked in interview process of talabat.
 
     /*
         CHALLENGE [1]
